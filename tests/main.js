@@ -6,7 +6,7 @@ require.config({
 		'underscore': 'components/underscore/underscore',
 		
 		// the module files go here
-		'_interface': '../_interface',
+		'_.interface': '../_.interface',
 
 		// DEMO
 		'demo-main': 'demo',	// the main file for the demo

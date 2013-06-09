@@ -1,4 +1,4 @@
-define(['_interface'], function(undef) {
+define(['_.interface'], function(undef) {
 
 
 	window.data = {

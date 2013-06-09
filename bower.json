@@ -1,5 +1,5 @@
 {
-	"name": "_interface",
+	"name": "_.interface",
 	"version": "0.0.1",
 	"dependencies": {
 		"underscore": "latest",
@@ -8,5 +8,5 @@
 	    "qunit": "latest"
 	},
 
-	"main": "_interface.js"
+	"main": "_.interface.js"
 }
